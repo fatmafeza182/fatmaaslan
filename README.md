@@ -1,6 +1,4 @@
 # fatmaaslan
-Merhaba, kısa bir şekilde yetkinliklerim.
-
 🚀 Web Developer | HTML, CSS, JavaScript, Django, React  
 🎯 İlgi Alanları: Full-Stack Geliştirme, API Geliştirme, Next.js  
 📫 Bana ulaşın: [LinkedIn](https://www.linkedin.com/in/fatma-aslan1/) | [Email](mailto:fatmaslan982@gmail.com)  
